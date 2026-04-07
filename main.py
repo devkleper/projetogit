@@ -1,3 +1,7 @@
+def teste():
+    pass
+
+
 def main():
 
     project_name: str = "projetogit"
