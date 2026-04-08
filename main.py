@@ -1,6 +1,8 @@
 def teste():
     pass
 
+def avaliar_mensagem_comando() -> None:
+    pass
 
 def main():
 
