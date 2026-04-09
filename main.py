@@ -1,5 +1,6 @@
-def teste():
-    pass
+def process_message(message: str) -> None:
+
+    print(f"message:{message}")
 
 
 def main():
