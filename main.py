@@ -6,10 +6,6 @@ def avaliar_mensagem_comando(mensagem: str):
     pass
 
 
-def avaliar_mensagem_comando() -> None:
-    pass
-
-
 def main():
 
     comandos: list[str] = []
