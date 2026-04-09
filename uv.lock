@@ -1,6 +1,10 @@
 version = 1
 revision = 3
+<<<<<<< HEAD
 requires-python = ">=3.13.0"
+=======
+requires-python = ">=3.13.12"
+>>>>>>> 239529c446a3fa0f3fafc206a7708b344439aeee
 
 [[package]]
 name = "projetogit"
